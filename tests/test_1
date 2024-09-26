@@ -1,0 +1,10 @@
+w = 17 * (-11);
+c = -w;
+
+while (w < 2)
+{
+	print c;
+	c = 4;
+}
+
+return 0;
